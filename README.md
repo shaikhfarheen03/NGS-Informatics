@@ -1,2 +1,3 @@
 # NGS-Informatics
-NGS informatics homework
+NGS informatics tutorials
+
